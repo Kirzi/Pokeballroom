@@ -74,3 +74,8 @@
   ability: Fluffy
   egg_moves: Counter, Stomp, Swagger
   ball: poke
+- pokemon: Rookidee
+  nature: Careful
+  ability: Big Pecks
+  egg_moves: Roost, Defog, Tailwind, Sky Attack
+  ball: poke
