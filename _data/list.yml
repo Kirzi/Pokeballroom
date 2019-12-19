@@ -84,3 +84,8 @@
   ability: Power Spot
   egg_moves: Curse, Ancient Power
   ball: poke
+- pokemon: Applin
+  nature: Jolly
+  ability: Bulletproof (HA)
+  egg_moves: Sucker Punch, Defense Curl, Rollout, Recycle
+  ball: poke
