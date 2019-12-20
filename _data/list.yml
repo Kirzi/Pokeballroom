@@ -89,3 +89,18 @@
   ability: Bulletproof (HA)
   egg_moves: Sucker Punch, Defense Curl, Rollout, Recycle
   ball: poke
+- pokemon: Milcery
+  nature: Calm
+  ability: Aroma Veil (HA)
+  egg_moves: Baby-Doll Eyes, Last Resort
+  ball: poke
+- pokemon: Morpeko
+  nature: Jolly
+  ability: Hunger Switch
+  egg_moves: Super Fang, Rapid Spin, Fake Out, Parting Shot
+  ball: poke
+- pokemon: Clobbopus
+  nature: Adamant
+  ability: Technician (HA)
+  egg_moves: Sucker Punch, Power-Up Punch, Pain Split, Soak
+  ball: poke
