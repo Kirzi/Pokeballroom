@@ -28,6 +28,16 @@
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
   ball: poke
+- pokemon: Lapras
+  nature: Timid
+  ability: Hydration (HA)
+  egg_moves: Ancient Power, Freeze-Dry, Sparkling Aria
+  ball: poke
+- pokemon: Joltik
+  nature: Timid
+  ability: Swarm (HA)
+  egg_moves: Poison Sting, Struggle Bug, Infestation, Lunge
+  ball: poke
 - pokemon: Grookey
   nature: Jolly
   ability: Overgrow
