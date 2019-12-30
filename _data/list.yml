@@ -28,6 +28,11 @@
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
   ball: poke
+- pokemon: Onix
+  nature: Impish
+  ability: Weak Armor (HA)
+  egg_moves: Dragon Tail, Head Smash, Block, Wide Guard
+  ball: poke
 - pokemon: Lapras
   nature: Timid
   ability: Hydration (HA)
