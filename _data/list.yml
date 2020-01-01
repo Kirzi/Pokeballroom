@@ -28,6 +28,11 @@
   ability: Anticipation (HA)
   egg_moves: Wish, Yawn, Curse, Double Kick
   ball: poke
+- pokemon: Vulpix
+  nature: Timid
+  ability: Drought (HA)
+  egg_moves: Hypnosis, Memento, Baby-Doll Eyes, Flame Charge
+  ball: poke
 - pokemon: Onix
   nature: Impish
   ability: Weak Armor (HA)
