@@ -33,6 +33,11 @@
   ability: Drought (HA)
   egg_moves: Hypnosis, Memento, Baby-Doll Eyes, Flame Charge
   ball: poke
+- pokemon: Growlithe
+  nature: Adamant
+  ability: Justified (HA)
+  egg_moves: Morning Sun, Thrash, Double-Edge, Covet
+  ball: poke
 - pokemon: Onix
   nature: Impish
   ability: Weak Armor (HA)
