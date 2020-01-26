@@ -48,6 +48,16 @@
   ability: Hydration (HA)
   egg_moves: Ancient Power, Freeze-Dry, Sparkling Aria, Curse
   ball: poke
+- pokemon: Riolu
+  nature: Jolly
+  ability: Prankster (HA)
+  egg_moves: High Jump Kick, Vaccum Wave, Bullet Punch, Cross Chop
+  ball: poke
+- pokemon: Riolu
+  nature: Timid
+  ability: Prankster (HA)
+  egg_moves: High Jump Kick, Vaccum Wave, Bullet Punch, Cross Chop
+  ball: poke
 - pokemon: Joltik
   nature: Timid
   ability: Swarm (HA)
