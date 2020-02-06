@@ -63,6 +63,16 @@
   ability: Swarm (HA)
   egg_moves: Poison Sting, Struggle Bug, Infestation, Lunge
   ball: poke
+- pokemon: Pawniard
+  nature: Adamant
+  ability: Pressure (HA)
+  egg_moves: Sucker Punch, Headbutt, Mean Look, Quick Guard
+  ball: poke
+- pokemon: Honedge
+  nature: Adamant
+  ability: No Guard
+  egg_moves: Destiny Bond, Wide Guard, Block
+  ball: poke
 - pokemon: Grookey
   nature: Jolly
   ability: Overgrow
