@@ -33,10 +33,22 @@
   ability: Drought (HA)
   egg_moves: Hypnosis, Memento, Baby-Doll Eyes, Flame Charge
   ball: poke
+- pokemon: Vulpix
+  sprite: vulpix-alola
+  nature: Timid
+  ability: Snow Warning (HA)
+  egg_moves: Hypnosis, Memento, Freeze-Dry, Moonblast
+  ball: poke
 - pokemon: Growlithe
   nature: Adamant
   ability: Justified (HA)
   egg_moves: Morning Sun, Thrash, Double-Edge, Covet
+  ball: poke
+- pokemon: Ponyta
+  sprite: ponyta-galar
+  nature: Jolly
+  ability: Anticipation (HA)
+  egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
   ball: poke
 - pokemon: Onix
   nature: Impish
@@ -47,6 +59,21 @@
   nature: Timid
   ability: Hydration (HA)
   egg_moves: Ancient Power, Freeze-Dry, Sparkling Aria, Curse
+  ball: poke
+- pokemon: Absol
+  nature: Jolly
+  ability: Super Luck
+  egg_moves: Curse, Double-Edge, Magic Coat, Feint
+  ball: poke
+- pokemon: Beldum
+  nature: Adamant
+  ability: Light Armor (HA)
+  egg_moves: N/A
+  ball: poke
+- pokemon: Shinx
+  nature: Adamant
+  ability: Guts (HA)
+  egg_moves: Baby-Doll Eyes, Take Down, Night Slash, Quick Attack
   ball: poke
 - pokemon: Riolu
   nature: Jolly
@@ -68,25 +95,50 @@
   ability: Pressure (HA)
   egg_moves: Sucker Punch, Headbutt, Mean Look, Quick Guard
   ball: poke
+- pokemon: Minccino
+  nature: Jolly
+  ability: Skill Link (HA)
+  egg_moves: Tail Whip, Aqua Tail, Knock Off, Flail
+  ball: poke
+- pokemon: Zorua
+  nature: Timid
+  ability: Illusion
+  egg_moves: Counter, Extrasensory, Memento, Sucker Punch
+  ball: poke
 - pokemon: Honedge
   nature: Adamant
   ability: No Guard
   egg_moves: Destiny Bond, Wide Guard, Block
   ball: poke
-- pokemon: Grookey
+- pokemon: Skrelp
+  nature: Modest
+  ability: Adaptability (HA)
+  egg_moves: Acid Armor, Haze, Twister, Dragon Tail
+  ball: poke
+- pokemon: Rockruff
   nature: Jolly
-  ability: Overgrow
-  egg_moves: Fake Out, Hammer Arm, Leech Seed, Growth
+  ability: Keen Eye
+  egg_moves: Thrash, Endeavor, Last Resort
+  ball: poke
+- pokemon: Rockruff
+  nature: Jolly
+  ability: Own Tempo
+  egg_moves: Thrash, Endeavor, Last Resort
+  ball: poke
+- pokemon: Grookey
+  nature: Adamant
+  ability: Grassy Surge (HA)
+  egg_moves: Hammer Arm, Fake Out, Worry Seed, Leech Seed
   ball: poke
 - pokemon: Scorbunny
   nature: Jolly
-  ability: Blaze
-  egg_moves: Super Fang, High Jump Kick, Sand Attack, Sucker Punch
+  ability: Libero (HA)
+  egg_moves: High Jump Kick, Sand Attack, Sucker Punch, Super Fang
   ball: poke
 - pokemon: Sobble
   nature: Timid
-  ability: Torrent
-  egg_moves: Aqua Jet, Mist, Haze, Aqua Ring
+  ability: Sniper (HA)
+  egg_moves: Aqua Jet, Aqua Ring, Mist, Haze
   ball: poke
 - pokemon: Dreepy
   nature: Jolly
@@ -102,12 +154,6 @@
   nature: Jolly
   ability: Ice Face
   egg_moves: Head Smash, Icicle Crash, Belly Drum, Aqua Ring
-  ball: poke
-- pokemon: Ponyta
-  sprite: ponyta-galar
-  nature: Jolly
-  ability: Anticipation (HA)
-  egg_moves: Double Kick, Hypnosis, Double-Edge, Morning Sun
   ball: poke
 - pokemon: Snom
   nature: Timid
